@@ -22,3 +22,27 @@ span {
     color: rgb(70, 158, 158);
     font-weight: 700;
 }
+
+.boxes {
+    margin: 5px auto;
+    padding: 8%;
+    border: 1px solid #466099;
+    border-radius: 10px;
+    width: 30em;
+}
+
+#box1 {
+    background-color: #fcfcfc;
+}
+
+#box2 {
+    background-color: #f3f3f3;
+}
+
+#box3 {
+    background-color: #eeeeee;
+}
+
+#box4 {
+    background-color: #d1cece;
+}
