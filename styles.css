@@ -3,6 +3,10 @@ body {
     background-color: #b1b1b0c7;
 }
 
+h1 {
+    color: darkslateblue;
+}
+
 h2, p, .readme-wrapper {
     text-align: center;
 }
@@ -56,4 +60,48 @@ span {
     position: relative;
     top: 60px;
     left: 55px;
+}
+
+.original {
+    color: cyan;
+}
+
+.additional {
+    color: deepskyblue;
+}
+
+#show1 {
+    color: darkturquoise;
+}
+
+#show2 {
+    color: darkorchid;
+}
+
+#show3 {
+    color: lightgreen;
+}
+
+#show4 {
+    color: lightsteelblue;
+}
+
+#show5 {
+    color: darkolivegreen;
+}
+
+ul {
+    color: dimgray;
+}
+
+.star {
+    color: firebrick;
+}
+
+#wars {
+    color: goldenrod;
+}
+
+.lists {
+    border: 2px solid black;
 }
