@@ -29,6 +29,7 @@ span {
     border: 1px solid #466099;
     border-radius: 10px;
     width: 30em;
+    display: block;
 }
 
 #box1 {
@@ -45,4 +46,14 @@ span {
 
 #box4 {
     background-color: #d1cece;
+}
+
+.new-box {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: #d37777;
+    position: relative;
+    top: 60px;
+    left: 55px;
 }
